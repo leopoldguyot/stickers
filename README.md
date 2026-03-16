@@ -18,6 +18,7 @@ This repository contains the [logo](logo/README.md) for the
 [<img src="./MsExperiment/MsExperiment.png" height="150">](MsExperiment/README.md)
 [<img src="./MsFeatures/MsFeatures.png" height="150">](MsFeatures/README.md)
 [<img src="./PSMatch/PSMatch.png" height="150">](PSMatch/README.md)
+[<img src="./PTMods/PTMods.png" height="150">](PTMods/README.md)
 [<img src="./QFeatures/QFeatures.png" height="150">](QFeatures/README.md)
 [<img src="./Spectra/Spectra.png" height="150">](Spectra/README.md)
 [<img src="./SpectraQL/SpectraQL.png" height="150">](SpectraQL/README.md)
@@ -28,6 +29,8 @@ This repository contains the [logo](logo/README.md) for the
 
 [<img src="./sticker/RforMassSpec-rainbow3.png" height="150">](sticker/README.md)
 [<img src="./Spectra/Spectra-rainbow.png" height="150">](Spectra/README.md)
+[<img src="./PSMatch/PSMatch-rainbow.png" height="150">](PSMatch/README.md)
+[<img src="./PTMods/PTMods-rainbow.png" height="150">](PTMods/README.md)
 
 
 # License
