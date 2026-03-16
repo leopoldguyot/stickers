@@ -40,7 +40,6 @@ hex_segment2 <- function(x = 1, y = 1, radius = 1, from_radius = 0,
                  fill = fill, color = color, size = size)
 }
 
-# img <- readPNG("images/PTMods-arm.png")
 img <- readPNG("images/PTMods-sew.png")
 img <- rasterGrob(img, width = 2, x = 0.5, y = 0.55,
                   interpolate = TRUE)
