@@ -80,7 +80,11 @@ hex <- ggplot() +
              color = col_text, size = 6) + 
     geom_pkgname("PTMods", y = 1.5, size = 26,
                  color = col_grey, family = "Aller") + 
-    theme_sticker()
+    theme_sticker() +
+    theme(plot.margin = margin(t = -3.4,  # Top margin
+                             r = -3.4,  # Right margin
+                             b = -3.4,  # Bottom margin
+                             l = -3.4)) # Left margin
 save_sticker(filename = "PTMods.png", hex, dpi = 300)
 
 ## Rainbow sticker
@@ -209,14 +213,17 @@ hex <- ggplot() +
     hex_segment2(size = 0, fill = paste0(purple, 40),
                  from_radius = 0.83, to_radius = 1,
                  from_angle = 90, to_angle = 150) +
-    geom_subview(subview = img, x = 1, y = 0.9,
-                 width = 1.045, height = 1.615) +
+    geom_subview(subview = img, x = 1, y = 0.65,
+                 width = 1.254, height = 1.938) +
     geom_url("www.bioconductor.org", x = 1.05, y = 0.12,
              color = col_text, size = 6) + 
     geom_pkgname("PTMods", y = 1.5, size = 26,
-                 color = "black", family = "Aller") +
-    #geom_pkgname("PTMods", y = 1.58, size = 20,
-     #            color = "black", family = "Aller") + 
-    theme_sticker()
+                 color = "black", family = "Aller") + 
+    theme_sticker() +
+    theme(plot.margin = margin(t = -3.4,  # Top margin
+                             r = -3.4,  # Right margin
+                             b = -3.4,  # Bottom margin
+                             l = -3.4)) # Left margin
+
   
 save_sticker(filename = "PTMods-rainbow.png", hex, dpi = 300)
