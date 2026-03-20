@@ -41,8 +41,8 @@ hex_segment2 <- function(x = 1, y = 1, radius = 1, from_radius = 0,
 }
 
 img <- readPNG("images/PTMods-sew.png")
-img <- rasterGrob(img, width = 2, x = 0.5, y = 0.55,
-                  interpolate = TRUE)
+img <- rasterGrob(img, width = 1.6, x = 0.5, y = 0.6,
+                       interpolate = TRUE)
 
 ## Manually define...
 col_blue = "#246abe"
@@ -74,8 +74,8 @@ hex <- ggplot() +
                  aes(x = x, y = y),
                  fill = paste0(col_purple, 40)) +
     geom_hexagon(size = 1.2, fill = NA, color = col_grey) +
-    geom_subview(subview = img, x = 1, y = 0.9,
-                 width = 1.045, height = 1.615) +
+    geom_subview(subview = img, x = 1, y = 0.65,
+                 width = 1.254, height = 1.938) +
     geom_url("www.bioconductor.org", x = 1.05, y = 0.12,
              color = col_text, size = 6) + 
     geom_pkgname("PTMods", y = 1.5, size = 26,
