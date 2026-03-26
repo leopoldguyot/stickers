@@ -4,7 +4,7 @@ This repository contains the [logo](logo/README.md) for the
 **RforMassSpectrometry** organisation, stickers and other layouts.
 
 [<img src="./sticker/RforMassSpectrometry.png" height="150">](sticker/README.md)
-[<img src="./Chromatograms/Chromatograms.png" height="150">](Chromatograms/README.md)
+[<img src="./Chromatograms/Chromatograms-rainbow.png" height="150">](Chromatograms/README.md)
 [<img src="./CompoundDb/CompoundDb.png" height="150">](CompoundDb/README.md)
 [<img src="./MetaboAnnotation/MetaboAnnotation.png" height="150">](MetaboAnnotation/README.md)
 [<img src="./MetaboCoreUtils/MetaboCoreUtils.png" height="150">](MetaboCoreUtils/README.md)
@@ -31,6 +31,7 @@ This repository contains the [logo](logo/README.md) for the
 [<img src="./Spectra/Spectra-rainbow.png" height="150">](Spectra/README.md)
 [<img src="./PSMatch/PSMatch-rainbow.png" height="150">](PSMatch/README.md)
 [<img src="./PTMods/PTMods-rainbow.png" height="150">](PTMods/README.md)
+[<img src="./Chromatograms/Chromatograms-rainbow.png" height="150">](Chromatograms/README.md)
 
 
 # License
