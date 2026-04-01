@@ -4,7 +4,7 @@ This repository contains the [logo](logo/README.md) for the
 **RforMassSpectrometry** organisation, stickers and other layouts.
 
 [<img src="./sticker/RforMassSpectrometry.png" height="150">](sticker/README.md)
-[<img src="./Chromatograms/Chromatograms.png" height="150">](Chromatograms/README.md)
+[<img src="./Chromatograms/Chromatograms-rainbow.png" height="150">](Chromatograms/README.md)
 [<img src="./CompoundDb/CompoundDb.png" height="150">](CompoundDb/README.md)
 [<img src="./MetaboAnnotation/MetaboAnnotation.png" height="150">](MetaboAnnotation/README.md)
 [<img src="./MetaboCoreUtils/MetaboCoreUtils.png" height="150">](MetaboCoreUtils/README.md)
@@ -20,7 +20,7 @@ This repository contains the [logo](logo/README.md) for the
 [<img src="./PSMatch/PSMatch.png" height="150">](PSMatch/README.md)
 [<img src="./PTMods/PTMods.png" height="150">](PTMods/README.md)
 [<img src="./QFeatures/QFeatures.png" height="150">](QFeatures/README.md)
-[<img src="./QFeaturesGUI/QFeaturesGUI.png" height="150">](QFeatures/README.md)
+[<img src="./QFeaturesGUI/QFeaturesGUI.png" height="150">](QFeaturesGUI/README.md)
 [<img src="./Spectra/Spectra.png" height="150">](Spectra/README.md)
 [<img src="./SpectraQL/SpectraQL.png" height="150">](SpectraQL/README.md)
 [<img src="./SpectriPy/SpectriPy.png" height="150">](SpectriPy/README.md)
@@ -32,7 +32,8 @@ This repository contains the [logo](logo/README.md) for the
 [<img src="./Spectra/Spectra-rainbow.png" height="150">](Spectra/README.md)
 [<img src="./PSMatch/PSMatch-rainbow.png" height="150">](PSMatch/README.md)
 [<img src="./PTMods/PTMods-rainbow.png" height="150">](PTMods/README.md)
-[<img src="./QFeaturesGUI/QFeaturesGUI-rainbow.png" height="150">](PTMods/README.md)
+[<img src="./Chromatograms/Chromatograms-rainbow.png" height="150">](Chromatograms/README.md)
+[<img src="./QFeaturesGUI/QFeaturesGUI-rainbow.png" height="150">](QFeaturesGUI/README.md)
 
 
 # License
